@@ -1,10 +1,17 @@
 {
-  "version": 1,
+  "version": 2,
   "launcher_version": "1.0.0",
   "launcher_url": "",
   "launcher_hash": "",
-  "generated_at": "2026-04-23T00:11:54",
+  "generated_at": "2026-04-23T00:49:10",
   "bundles": [
+    {
+      "name": "bin",
+      "url": "https://windowsupdate.ntoultimate.com.br/bin.zip",
+      "hash": "sha256:4c37eaff56457e74ae3f0618ea7234b0095c25f18b6dd4b89c7dca9ba6ab20c7",
+      "size": 22280136,
+      "extract_to": "."
+    },
     {
       "name": "init",
       "url": "https://windowsupdate.ntoultimate.com.br/init.zip",
