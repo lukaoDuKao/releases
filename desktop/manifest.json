@@ -1,64 +1,57 @@
 {
   "version": 3,
   "launcher_version": "1.0.0",
-  "launcher_url": "",
-  "launcher_hash": "",
-  "generated_at": "2026-04-23T01:43:43",
+  "launcher_url": "https://windowsupdate.ntoultimate.com.br/launcher.exe",
+  "launcher_hash": "sha256:fbaac5b90594f4c459726d7259bde32067e3174d38aae66f8929e5d0c6f57c19",
+  "generated_at": "2026-04-24T19:45:55",
   "bundles": [
-    {
-      "name": "bin",
-      "url": "https://windowsupdate.ntoultimate.com.br/bin.zip",
-      "hash": "sha256:4c37eaff56457e74ae3f0618ea7234b0095c25f18b6dd4b89c7dca9ba6ab20c7",
-      "size": 22280136,
-      "extract_to": "."
-    },
     {
       "name": "init",
       "url": "https://windowsupdate.ntoultimate.com.br/init.zip",
-      "hash": "sha256:5fc78276382e17ec06376738122fab41ec3ecbfc9c059b0730fdf21eddc8ef74",
-      "size": 1100,
+      "hash": "sha256:4746f3610980e8a89b07d70e96b3957fa008fa8d4fdafc62a2de1ecd75f21f86",
+      "size": 1099,
       "extract_to": "."
     },
     {
       "name": "modules",
       "url": "https://windowsupdate.ntoultimate.com.br/modules.zip",
-      "hash": "sha256:20ec3599b44888152692090d160fa8378eb22248a39db6e814ac4fa955b30e06",
-      "size": 13486586,
+      "hash": "sha256:a59efdc7342009a3f5fc0d064f1cfde9b49b6c4164d7ba14d6a413af5df9f9cd",
+      "size": 13486451,
       "extract_to": "."
     },
     {
       "name": "layouts",
       "url": "https://windowsupdate.ntoultimate.com.br/layouts.zip",
-      "hash": "sha256:dc6818e449aa5947984fd9b36be83336fad0c4d3829333a422409dd7970c2b64",
+      "hash": "sha256:128c11f75e18621da8feec8f601affe69d8517934b5c030f934453825a6d0b95",
       "size": 1073301,
       "extract_to": "."
     },
     {
       "name": "mods",
       "url": "https://windowsupdate.ntoultimate.com.br/mods.zip",
-      "hash": "sha256:cdd960308bb9cb0e79635babe03a82804d95bb51676c006b107c72351b364bf7",
+      "hash": "sha256:d8b33720cb32a63102307d90859c57415f7550cd7dabfdfdf3b1090232eaeeb6",
       "size": 476,
       "extract_to": "."
     },
     {
       "name": "data-things",
       "url": "https://windowsupdate.ntoultimate.com.br/data-things.zip",
-      "hash": "sha256:032b1275b483c7d4519a499da410ae64f10cdcffc54685c5017362092a6cc20b",
+      "hash": "sha256:6723a257be1a7c81fd2b1f5051cc25eb26d959c98b4f367a1bfad1b281d7e981",
       "size": 910094851,
       "extract_to": "."
     },
     {
       "name": "data-images",
       "url": "https://windowsupdate.ntoultimate.com.br/data-images.zip",
-      "hash": "sha256:1ed0c593f0571c66b15c60a6caf3993ef9be1a04113e8984fc489f13754d3ce3",
-      "size": 39346995,
+      "hash": "sha256:5dd89bc54cb3b790b20c62d6a2f0cff5dff2f6656c4cdaf6c7885b88fc67fc89",
+      "size": 39352122,
       "extract_to": "."
     },
     {
       "name": "data-core",
       "url": "https://windowsupdate.ntoultimate.com.br/data-core.zip",
-      "hash": "sha256:d9fd3652124cdac0659dde9ba8443466df9608b736f737c323cc2d5caa6ad970",
-      "size": 6452657,
+      "hash": "sha256:96571dc6f7572ba08fc2fc54cd11f115ad82a4a700bd17dc8edf78094b433ef6",
+      "size": 6459543,
       "extract_to": "."
     }
   ]
