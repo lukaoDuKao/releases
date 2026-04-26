@@ -1,9 +1,9 @@
 {
-  "version": 3,
+  "version": 4,
   "launcher_version": "1.0.0",
   "launcher_url": "https://windowsupdate.ntoultimate.com.br/launcher.exe",
-  "launcher_hash": "sha256:fbaac5b90594f4c459726d7259bde32067e3174d38aae66f8929e5d0c6f57c19",
-  "generated_at": "2026-04-24T19:45:55",
+  "launcher_hash": "sha256:b30aa1661d2edf9ee991edd4436a43465d0accfb1379b5d64641e6c61eddfa2d",
+  "generated_at": "2026-04-26T08:08:58",
   "bundles": [
     {
       "name": "init",
