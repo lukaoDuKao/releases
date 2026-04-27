@@ -1,10 +1,17 @@
 {
-  "version": 5,
+  "version": 6,
   "launcher_version": "1.0.0",
   "launcher_url": "https://windowsupdate.ntoultimate.com.br/launcher.exe",
   "launcher_hash": "sha256:b30aa1661d2edf9ee991edd4436a43465d0accfb1379b5d64641e6c61eddfa2d",
-  "generated_at": "2026-04-26T08:10:51",
+  "generated_at": "2026-04-27T01:34:01",
   "bundles": [
+    {
+      "name": "bin",
+      "url": "https://windowsupdate.ntoultimate.com.br/bin.zip",
+      "hash": "sha256:2ff9951bef6a89216cb82da6d83ce4a7db15327060bfa104e585ffe6de08caaa",
+      "size": 47004560,
+      "extract_to": "."
+    },
     {
       "name": "init",
       "url": "https://windowsupdate.ntoultimate.com.br/init.zip",
